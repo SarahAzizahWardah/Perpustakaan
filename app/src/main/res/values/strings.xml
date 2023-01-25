@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Perpustakaan</string>
+    <string name="title_activity_maps">Halaman Map</string>
+    <string name="tampilan_normal">Tampilan Normal</string>
+    <string name="tampilan_hybrid">Tampilan Hybrid</string>
+    <string name="tampilan_satelit">Tampilan Satelit</string>
+    <string name="tampilan_terrain">Tampilan Terrain</string>
+    <string name="username">Username</string>
+    <string name="cth_tgl">26/01/2023</string>
+    <string name="cth_tgl2">27/01/2023</string>
+    <string name="cth_buku">Matematika</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

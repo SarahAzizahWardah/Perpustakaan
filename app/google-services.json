@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550248635662",
+    "project_id": "perpustakaan-b602b",
+    "storage_bucket": "perpustakaan-b602b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550248635662:android:57434273a66fcb86fbcb5f",
+        "android_client_info": {
+          "package_name": "com.example.perpustakaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550248635662-ombhgjudd6q9n9impnqmjee68h6sjcj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDvSNFrQXG3eDNTSTG50ourW3SnFh3Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550248635662-ombhgjudd6q9n9impnqmjee68h6sjcj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
